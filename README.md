@@ -1,27 +1,24 @@
 # Lucas Mateus
 
-**Independent researcher & builder exploring human–AI collaboration, evaluation and learning**
+**People, learning and creations.** São Paulo.
 
-My professional background is in Talent Acquisition, Learning & Development, English teaching and customer-facing work. I came to AI through hands-on experimentation, using projects to learn, test ideas and document what works.
+I've supported recruiting teams in Brazil and abroad, from sourcing to interview coordination and candidate communication. I've also worked in corporate learning and taught English for more than five years. I bring those experiences into practical projects.
 
-## Current work
+## Work
 
-- **[Capability Lab](https://lucas-mateus-hq.github.io/lucas-capability-os-pages/)** — an independent research project exploring whether AI can help people turn curiosity into something they can understand, build, change and reuse.
-- **[Capability Evidence Protocol v0.1](https://github.com/lucas-mateus-hq/lucas-capability-os-pages/blob/main/public/protocol/CAPABILITY_EVIDENCE_PROTOCOL_v0.1.md)** — an experimental, model-agnostic protocol for separating capability claims from inspectable evidence and independent evaluation.
-- **Human–AI workflows** — practical experiments with agent playbooks, evaluation, evidence and reusable ways of working across AI tools.
+- **Talent Acquisition and international recruiting**: TikTok, Reckitt
+- **Learning, customer support and English teaching**: Wellhub, RealLife English
 
-## Research interests
+## Creations
 
-Human–AI collaboration · AI-assisted learning · evaluation · agent workflows · evidence & reproducibility
+- **[Renda Extra com IA](https://lucas-mateus-hq.github.io/renda-extra-com-ia/)**: a practical guide in Portuguese with 12 service opportunities, interactive tools and a 30-day plan.
 
-## Professional background
+## Ideas I'm exploring
 
-Before this work, I built experience across **Talent Acquisition, Recruiting Operations, international recruiting and Learning & Development**, including roles at Wellhub, Reckitt, TikTok and RealLife English.
-
-For the career side of my work, see my **[professional portfolio](https://lucas-mateus-hq.github.io/lucas-capability-os-pages/portfolio/)**.
+How people and AI systems can work together, and what that collaboration lets us learn, create and question.
 
 ## Links
 
-- [Capability Lab](https://lucas-mateus-hq.github.io/lucas-capability-os-pages/)
-- [Professional Portfolio](https://lucas-mateus-hq.github.io/lucas-capability-os-pages/portfolio/)
+- [Website](https://lucas-mateus-hq.github.io/en/)
+- [Professional portfolio](https://lucas-mateus-hq.github.io/portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/lucasmateus/)
